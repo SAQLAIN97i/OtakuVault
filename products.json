@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "actioncam-6k-pro",
+      "name": "ActionCam 6K Pro",
+      "category": "Cameras",
+      "price": 499,
+      "originalPrice": 599,
+      "rating": 4.8,
+      "reviews": 2341,
+      "badge": "HOT",
+      "discount": "-17%",
+      "stock": "in",
+      "amazonUrl": "https://amazon.com/dp/B08XYZ123",
+      "description": "Capture your adventures in stunning 6K resolution. Features HyperSmooth 6.0 stabilization, waterproof design to 33ft, and 140-minute battery life.",
+      "images": [
+        "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=600&q=80",
+        "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&q=80",
+        "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80",
+        "https://images.unsplash.com/photo-1495745966610-2a67f2297e5e?w=600&q=80"
+      ],
+      "features": [
+        "6K video recording at 60fps",
+        "HyperSmooth 6.0 stabilization",
+        "Waterproof to 33ft without housing",
+        "Front + rear touch displays",
+        "Live streaming capability",
+        "Enduro battery included"
+      ],
+      "specs": {
+        "Video Resolution": "6K @ 60fps",
+        "Photo Resolution": "27MP",
+        "Stabilization": "HyperSmooth 6.0",
+        "Waterproof": "33ft (10m)",
+        "Battery Life": "140 minutes",
+        "Connectivity": "Wi-Fi, Bluetooth, GPS"
+      }
+    },
+    {
+      "id": "tanjiro-figure",
+      "name": "Tanjiro Kamado 1/8 Scale Figure",
+      "category": "Demon Slayer",
+      "price": 89.99,
+      "originalPrice": 129.99,
+      "rating": 4.9,
+      "reviews": 3420,
+      "badge": "BESTSELLER",
+      "discount": "-31%",
+      "stock": "in",
+      "amazonUrl": "https://amazon.com/dp/B08ABC456",
+      "description": "Experience the stunning detail of Tanjiro Kamado in his iconic Water Breathing form. This 1/8 scale figure captures every intricate detail from the hit anime Demon Slayer.",
+      "images": [
+        "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=600&q=80",
+        "https://images.unsplash.com/photo-1560972550-aba3456b5564?w=600&q=80",
+        "https://images.unsplash.com/photo-1607604276583-eef5a0adcc99?w=600&q=80",
+        "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&q=80"
+      ],
+      "features": [
+        "Officially licensed by Aniplex",
+        "Includes interchangeable face plates",
+        "Premium paint application",
+        "Translucent water breathing effects",
+        "Detailed base included",
+        "Limited edition production"
+      ],
+      "specs": {
+        "Scale": "1/8",
+        "Height": "9 inches (23cm)",
+        "Material": "PVC/ABS",
+        "Brand": "Good Smile Company",
+        "Release Date": "October 2023",
+        "SKU": "GS-TNJ-001"
+      }
+    }
+  ]
+}
